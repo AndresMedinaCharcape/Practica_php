@@ -1,0 +1,55 @@
+img {
+    position: relative;
+    left: 20em;
+    max-width: 150px;
+}
+
+.informacion_empresa {
+    line-height: 0.2em;
+    position: relative;
+    float: right;
+    right: 15em;
+}
+
+.ruc {
+    position: relative;
+    left: 8em;
+}
+
+.calle{
+    position: relative;
+    right: 1em;
+}
+
+.title_boleta{
+    line-height: 0.2em;
+    padding-top: 30px;
+    position: relative;
+    left: 35em;
+}
+
+table {
+    border: 1px solid black;
+    margin-bottom: 1em;
+    width: auto;
+    height: auto;
+    border-collapse: collapse;
+    position: relative;
+    left: 20em;
+}
+
+td,tr {
+    border: 1px solid darkblue;
+    padding: 0.3em;
+    text-align: center;
+    width: auto;
+    height: auto;
+
+}
+
+.dueño {
+    position: relative;
+    left: 120em;
+    max-width: 50px;
+}
+
